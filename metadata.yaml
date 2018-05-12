@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1753
     wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25505#The-Merryweathers
 gutenberg_issued: '2008-05-17'
 gutenberg_type: Text
 identifiers:
